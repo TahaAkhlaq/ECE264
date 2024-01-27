@@ -1,2 +1,2 @@
-# ECE264
-Data Structures and Algorithms 1
+# ECE264 DSA1
+Programming Assignments
