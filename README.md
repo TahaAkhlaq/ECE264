@@ -1,2 +1,2 @@
-# ECE264 DSA1
+# ECE264 DSA 1
 Programming Assignments
