@@ -1,0 +1,3 @@
+### Project 2: Stack and Queue Manager
+
+This project focuses on the manipulation of stacks and queues through a sequence of commands provided in an input file. The program processes commands to create, push to, and pop from stacks and queues for three data types: integers, doubles, and strings. It implements the stack and queue data structures using singly linked lists and templates, ensuring efficient operations. Additionally, the program handles errors such as attempting to pop from an empty stack or using a non-existent name, providing an opportunity to gain deeper understanding of inheritance, polymorphism, and C++ templates.
