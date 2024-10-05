@@ -12,6 +12,7 @@ An introduction to fundamental data structures and algorithms, with an emphasis 
 ### Projects
 - **[Project 1](Project1/project1.cpp)**: A program that calculates the strength of foobars based on their type and position in a line using object-oriented principles.
 - **[Project 2](Project2/project2.cpp)**: A program that manages stacks and queues of various data types using C++ templates, with commands for creating, pushing, and popping values.
+- **[Project 3](Project3/project3.cpp)**: A program that sorts a linked list of people based on last name, first name, and SSN using C++ list class and sorting algorithms.
 
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
